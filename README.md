@@ -1,1 +1,1 @@
-本仓库包含模型训练、推理评估及鲁棒性测试的代码与示例数据。
+This repository contains code and example data for model training, inference evaluation, and robustness testing.
